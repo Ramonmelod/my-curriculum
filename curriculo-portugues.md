@@ -3,19 +3,17 @@
 [Ler em Português](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculo-portugues.md) | [Read in english](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculum-english.md)
 
 </sup>
-
+<link rel = "stylesheet" href="./style.css">
 <img align="right" width="120" src="./images/DSC00025.jpg" />
 # Ramon Melo dos Santos
-
+<div id = "personalInformation">
 _Software Engineer, 31 anos._  
 _Florianópolis, SC, Brasil._  
 <sub>https://ramonmelo.com.br - ramonmelo.com@gmail.com</sub>
 
-<div>
+---
 
 </div>
-
----
 
 Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma que nos últimos anos, tenho me dedicado ao aprimoramento dos meus conhecimentos em programação
 
