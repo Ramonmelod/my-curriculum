@@ -9,11 +9,11 @@
 
 # Ramon Melo dos Santos
 
-_Software Engineer, 31 anos._  
+_Engenheiro de Sotfware, 31 anos._  
 _Florianópolis, SC, Brasil._  
 <sub>https://ramonmelo.com.br - ramonmelo.com@gmail.com</sub>
 
-Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma tenho me dedicado ao aprimoramento dos meus conhecimentos em programação.
+Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma que tenho me dedicado ao aprimoramento dos meus conhecimentos em programação.
 
 ### habilidades
 
@@ -44,7 +44,7 @@ dezembro de 2016 – atualmente
 
 dezembro de 2012 – dezembro de 2016
 
-- Bacharelado em Engenharia Mecânica pela Universidade Federal do Piauí,
+- Bacharelado em Engenharia Mecânica pela Universidade Federal do Piauí
 
 ### Projetos no Github
 
