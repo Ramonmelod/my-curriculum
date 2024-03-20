@@ -1,3 +1,4 @@
-# Ramon Melo dos Santos
+# Renato Ribeiro's CV
 
-<img align="right" width="120" src="./images/DSC00025.jpg" />
+- [Read in english](https://github.com/Ramonmelod/my-curriculum/tree/main)
+- [Leia em português](https://github.com/Ramonmelod/my-curriculum/tree/main)
