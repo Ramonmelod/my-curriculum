@@ -9,4 +9,4 @@
 
 ### Skills
 
-##### JavaScript | Nodejs |
+##### JavaScript |Nodejs |Express |Nextjs |C++ |Java |Nginx |Docker |Git |Postgresql |Mysql |Redis

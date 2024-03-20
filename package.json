@@ -1,0 +1,12 @@
+{
+  "name": "my-curriculum",
+  "version": "1.0.0",
+  "description": "- [Read in english](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculum-english.md) - [Leia em português](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculo-portugues.md)",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ramon Melo",
+  "license": "ISC"
+}
