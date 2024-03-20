@@ -1,6 +1,6 @@
 <sup>
  
-[Ler em Português](https://github.com/Ramonmelod/my-curriculum/tree/main) | [Read in english](hhttps://github.com/Ramonmelod/my-curriculum/tree/main)
+[Ler em Português](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculo-portugues.md) | [Read in english](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculum-english.md)
 
 </sup>
 # Ramon Melo dos Santos
