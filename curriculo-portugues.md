@@ -3,21 +3,23 @@
 [Ler em Português](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculo-portugues.md) | [Read in english](https://github.com/Ramonmelod/my-curriculum/blob/main/curriculum-english.md)
 
 </sup>
+
 <link rel = "stylesheet" href="./style.css">
 <img align="right" width="120" src="./images/DSC00025.jpg" />
+
 # Ramon Melo dos Santos
-<div id = "personalInformation">
+
 _Software Engineer, 31 anos._  
 _Florianópolis, SC, Brasil._  
 <sub>https://ramonmelo.com.br - ramonmelo.com@gmail.com</sub>
 
 ---
 
-</div>
-
-Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma que nos últimos anos, tenho me dedicado ao aprimoramento dos meus conhecimentos em programação
+Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma tenho me dedicado ao aprimoramento dos meus conhecimentos em programação.
 
 ### habilidades
+
+---
 
 ##### JavaScript | Nodejs | Express | Nextjs | C++ | Java | Nginx | Docker | Git | Postgresql | Mysql | Redis
 
@@ -34,9 +36,17 @@ Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 ano
 
 ---
 
+dezembro de 2016 – atualmente
+
+- Engenheiro Mecânico na Universidade Federal de Santa Catarina
+
 ### Formação acadêmica
 
 ---
+
+dezembro de 2012 – dezembro de 2016
+
+- Bacharelado em Engenharia Mecânica pela Universidade Federal do Piauí,
 
 ### Links
 
