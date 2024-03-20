@@ -13,8 +13,6 @@ _Software Engineer, 31 anos._
 _Florianópolis, SC, Brasil._  
 <sub>https://ramonmelo.com.br - ramonmelo.com@gmail.com</sub>
 
----
-
 Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 anos de experiência em fiscalização de contratos e estou interessado em realizar uma transição de carreira para a área de desenvolvimento de forma tenho me dedicado ao aprimoramento dos meus conhecimentos em programação.
 
 ### habilidades
@@ -47,6 +45,18 @@ dezembro de 2016 – atualmente
 dezembro de 2012 – dezembro de 2016
 
 - Bacharelado em Engenharia Mecânica pela Universidade Federal do Piauí,
+
+### Projetos no Github
+
+---
+
+- [rinha de backend - 2024](https://github.com/Ramonmelod/rinha-de-backend-2024-q1-nodejs)
+
+- [Jogo do Mário - Frontend com consulta a APIRest ](https://github.com/Ramonmelod/supermario)
+
+- [ApiRest utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
+
+- [Clone Tabnews](https://github.com/Ramonmelod/clone-tabnews)
 
 ### Links
 
