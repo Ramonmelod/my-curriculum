@@ -4,10 +4,10 @@
 
 </sup>
 
-<link rel = "stylesheet" href="./style.css">
-<img align="right" width="120" src="./images/DSC00025.jpg" />
-
 # Ramon Melo dos Santos
+
+<link rel = "stylesheet" href="./style.css">
+<img align="right" id = "image" width="120" src="./images/DSC00025.jpg"/>
 
 _Engenheiro de Sotfware, 31 anos._  
 _Florianópolis, SC, Brasil._  
