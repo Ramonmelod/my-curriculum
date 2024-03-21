@@ -44,7 +44,11 @@ dezembro de 2016 – atualmente
 
 dezembro de 2012 – dezembro de 2016
 
-- Bacharelado em Engenharia Mecânica pela Universidade Federal do Piauí
+- Bacharelado em Engenharia Mecânica, Universidade Federal do Piauí, Teresina, PI
+
+Setembro de 2018 – fevereiro de 2020
+- Gestão e engenharia de manutenção, Universidade Cândido Mendes, Rio de Janeiro, RJ
+
 
 ### Projetos no Github
 
