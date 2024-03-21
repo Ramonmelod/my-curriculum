@@ -52,7 +52,7 @@ dezembro de 2012 – dezembro de 2016
 
 - [rinha de backend - 2024](https://github.com/Ramonmelod/rinha-de-backend-2024-q1-nodejs)
 
-- [Jogo do Mário - Frontend com consulta a APIRest ](https://github.com/Ramonmelod/supermario)
+- [Jogo do Mário - Frontend com consulta a API](https://github.com/Ramonmelod/supermario)
 
 - [ApiRest utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
 
