@@ -54,7 +54,7 @@ dezembro de 2012 – dezembro de 2016
 
 - [Jogo do Mário - Frontend com consulta a API](https://github.com/Ramonmelod/supermario)
 
-- [ApiRest utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
+- [Api utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
 
 - [Clone Tabnews](https://github.com/Ramonmelod/clone-tabnews)
 
