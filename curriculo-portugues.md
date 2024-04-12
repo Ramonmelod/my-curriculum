@@ -34,7 +34,6 @@ Sou engenheiro mecânico na Universidade Federal de Santa Catarina, possuo 7 ano
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
 
-</div>
 
 ### Idiomas
 
