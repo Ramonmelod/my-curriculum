@@ -73,11 +73,19 @@ September 2018 – February 2020
 
 - [rinha de backend - 2024](https://github.com/Ramonmelod/rinha-de-backend-2024-q1-nodejs)
 
+  Implementation of an API in Node.js using the Express framework to handle HTTP requests with GET and POST methods. The infrastructure includes Nginx as a reverse proxy, Docker for containerization, and PostgreSQL as the database.
+
 - [Jogo do Mário - Frontend com consulta a API](https://github.com/Ramonmelod/supermario)
+
+  Implementation of a Mario game with integration to an API for querying and registering players' scores in a database.
 
 - [Api utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
 
+Implementation of an API in Node.js using the Express framework to handle HTTP requests with GET and POST methods coming from the Mario game application mentioned above. This API uses PostgreSQL as the database management system.
+
 - [Clone Tabnews](https://github.com/Ramonmelod/clone-tabnews)
+
+Implementation of a full-stack project with backend using Next.js, frontend using React, and PostgreSQL as the database management system.
 
 ### Links
 
