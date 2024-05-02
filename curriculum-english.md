@@ -81,11 +81,11 @@ September 2018 – February 2020
 
 - [Api utilizando Express](https://github.com/Ramonmelod/Ramonmelod-servidorNodeRecordistasMario)
 
-Implementation of an API in Node.js using the Express framework to handle HTTP requests with GET and POST methods coming from the Mario game application mentioned above. This API uses PostgreSQL as the database management system.
+  Implementation of an API in Node.js using the Express framework to handle HTTP requests with GET and POST methods coming from the Mario game application mentioned above. This API uses PostgreSQL as the database management system.
 
 - [Clone Tabnews](https://github.com/Ramonmelod/clone-tabnews)
 
-Implementation of a full-stack project with backend using Next.js, frontend using React, and PostgreSQL as the database management system.
+  Implementation of a full-stack project with backend using Next.js, frontend using React, and PostgreSQL as the database management system.
 
 ### Links
 
